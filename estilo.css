@@ -1,0 +1,9 @@
+td h1 { color: darkblue;}
+img:hover {opacity: 0.5;
+    filter: grayscale(100%);}
+
+p::first-letter{font-size: 4em;}
+
+#cursos tr:nth-child(even) {background-color: gray;}
+#cursos tr:nth-child(odd) {background-color: yellow;}
+#cursos tr:nth-child(1) {background-color: orange;}
